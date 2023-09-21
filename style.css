@@ -1,0 +1,21 @@
+body{ 
+    background-color: rgb(180, 196, 191);
+}
+h1{
+    color: rgb(2, 1, 10);
+}
+.mainContainer h1{
+
+    box-sizing: border-box;
+    justify-content: center;
+    margin: 0px 0px 0px 50px;
+
+}
+#im{
+    display: flex;
+}
+#thermameter{
+    margin: 0px 0px 0px 20px;
+    height: 100px;
+    width: 70px;
+}
